@@ -10,5 +10,18 @@
   },
   "dependencies": {
     "@prisma/client": "^6.19.3"
-  }
+  },
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allanalldo3-pixel/ORMPrisma.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allanalldo3-pixel/ORMPrisma/issues"
+  },
+  "homepage": "https://github.com/allanalldo3-pixel/ORMPrisma#readme"
 }
